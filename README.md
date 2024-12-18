@@ -1,4 +1,4 @@
-# Weather Application
+# TempTracker
 
 ## Overview
 This Weather Application is a simple Android app that provides real-time weather updates. Users can view the current weather of their location or search for the weather in a specific city by entering the city name. The app integrates the OpenWeatherMap API to fetch weather data and displays information such as temperature, weather conditions, and city name.
